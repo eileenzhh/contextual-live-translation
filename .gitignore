@@ -6,3 +6,7 @@
 
 # And keep the .gitignore itself
 !.gitignore
+/en-fr
+/OpenSubtitles
+/node_modules
+*.zip
