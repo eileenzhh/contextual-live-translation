@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But keep Jupyter notebooks
+!*.ipynb
+
+# And keep the .gitignore itself
+!.gitignore
